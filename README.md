@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shervin Zare and I'm a Data Science student @ Wilfrid Laurier University 
 
 ---
+### 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -12,7 +13,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C9B8E?style=for-the-badge)
-
 ---
 
 ### 📫 Let's Connect
