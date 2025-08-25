@@ -17,7 +17,7 @@
 ### 📊 Featured Projects
 
 - **Bank Marketing Campaign** – SQL + ML analysis on marketing data
-- **Titanic Survival Predictor** – ML classification model
+- **Titanic ML Classifier** – ML classification model
 - **Email Spam Detection** – NLP and classification model
 
 *Open to collaborations on data science projects and internships!*
