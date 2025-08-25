@@ -1,42 +1,23 @@
-# 👋 Hi, I'm Shervin Zare  
-
-🎓 Data Science Student @ **Wilfrid Laurier University**  
-📊 Concentrating in **Big Data & Machine Learning**  
-⚡ Passionate about **Data Analytics, SQL, and Predictive Modeling**  
+# 👋 Hi, I'm Shervin Zare and I'm a Data Science student @ Wilfrid Laurier University 
 
 ---
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shervin-zare)  
+### 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🛠️ Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+### 📫 Let's Connect
+
+- 📧 **Email:** [shervin.zare2005@gmail.com](mailto:shervin.zare2005@gmail.com) *(replace with your actual email)*
+- 💼 **LinkedIn:** [Shervin Zare](https://www.linkedin.com/in/shervin-zare/) *(replace with your actual LinkedIn URL)*
 
 ---
-
-## 🚀 Featured Projects  
-
-- 📈 **Bank Marketing Campaign** – *SQL + ML analysis on marketing data*  
-- ✉️ **Email Spam Classifier** – *Spam detection using ML models*  
-- 🚢 **Titanic ML Classifier** – *Survival prediction with classification models*  
-- ⚾ **Pitching Performance Analysis** – *SQL-based baseball pitching insights*  
-
----
-
-## 🌱 Currently Learning  
-- Advanced Machine Learning (Deep Learning, NLP)  
-- Data Engineering & Big Data Pipelines  
-- Cloud Tools for Analytics (AWS, GCP)  
-
----
-
-⭐️ *Always open to collaborations on Data Science & Machine Learning projects!*  
-
