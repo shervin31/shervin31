@@ -20,4 +20,4 @@
 - **Titanic ML Classifier** – Titanic Survival Predictor
 - **Email Spam Detection** – NLP and classification model
 
-*Open to collaborations on data science projects and internships!*
+*Open to collaborations on data science projects and internship oppourtunities!*
