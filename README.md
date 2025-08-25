@@ -1,7 +1,4 @@
-# 👋 Hi, I'm Shervin Zare
-
-**Honours Data Science @ Wilfrid Laurier University** | Passionate about Machine Learning, Big Data, and Predictive Analytics.
-
+# 👋 Hi, my name Shervin Zare and I'm a Honours Data Science @ Wilfrid Laurier University
 ---
 
 ### 🛠️ Languages & Tools
