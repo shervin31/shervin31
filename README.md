@@ -1,3 +1,36 @@
+<table>
+  <tr>
+    <!-- Left Column - Contact & Info -->
+    <td valign="top" width="35%">
+    
+### Shervin Zare  
+**shervin-zare**
+
+---
+
+#### 👤 Profile
+**Data Science @ Wilfrid Laurier University**  
+**2 followers · 2 following**  
+
+**📧 Email:** [shervin.zare@email.com](mailto:shervin.zare@email.com)  
+**💼 LinkedIn:** [Shervin Zare](https://linkedin.com/in/shervin-zare)  
+
+---
+
+#### 🏆 Achievements
+- [X] **Highlights**
+- [X] **Organizations**
+
+---
+
+#### 📍 Location
+Ontario, Canada
+
+    </td>
+    
+    <!-- Right Column - Main Content -->
+    <td valign="top" width="65%">
+
 # 👋 Hi, my name Shervin Zare and I'm a Honours Data Science @ Wilfrid Laurier University
 ---
 
