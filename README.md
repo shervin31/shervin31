@@ -17,7 +17,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** [shervin.zare2005@gmail.com](mailto:shervin.zare2005@gmail.com) *(replace with your actual email)*
-- 💼 **LinkedIn:** [Shervin Zare](https://www.linkedin.com/in/shervin-zare/) *(replace with your actual LinkedIn URL)*
+- 📧 **Email:** [shervin.zare2005@gmail.com](mailto:shervin.zare2005@gmail.com) 
+- 💼 **LinkedIn:** [Shervin Zare](https://www.linkedin.com/in/shervin-zare/) 
 
 ---
