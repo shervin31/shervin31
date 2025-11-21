@@ -17,7 +17,7 @@
 
 ### 📊 Featured Projects
 
-- **Bank Marketing Campaign** – Customer Targeting Analysis with ML
+- **Bank Marketing Optimization** – Customer Targeting Analysis with ML
 - **Titanic ML Classifier** – Titanic Survival Predictor
 - **Email Spam Detection** – NLP and classification model
 
