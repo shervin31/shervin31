@@ -16,8 +16,7 @@
 
 ---
 
-## ⚡ Personal Website
-Check out my website at **[shervinzare.com](https://shervinzare.com/)**
+Check out my website at **[shervinzare.com](https://shervinzare.com/)** ⚡
 
 ---
 
