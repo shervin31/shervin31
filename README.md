@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Shervin Zare
-### Honours Data Science Student @ Wilfrid Laurier University
+# Hi, I'm Shervin Zare👋
+### I'm a Data Science Student @ Wilfrid Laurier University
 
 ---
 
