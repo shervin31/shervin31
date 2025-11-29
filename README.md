@@ -21,4 +21,4 @@ Check out my website at **[shervinzare.com](https://shervinzare.com/)**
 
 ---
 
-**Open to collaborations on data science projects and internship opportunities!**
+**Open to collaborations and internship opportunities!**
