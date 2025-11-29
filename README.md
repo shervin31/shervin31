@@ -1,8 +1,9 @@
-{"id":"59310","variant":"standard","title":"GitHub README Section"}
-Hi, I'm Shervin Zare👋  
-Honours Data Science Student @ Wilfrid Laurier University  
+# 👋 Hi, I'm Shervin Zare
+### Honours Data Science Student @ Wilfrid Laurier University
 
-🛠️ What I Use  
+---
+
+## 🛠️ What I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -13,14 +14,24 @@ Honours Data Science Student @ Wilfrid Laurier University
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-📫 Let's Connect  
-📧 Email: shervin.zare2005@gmail.com  
-💼 LinkedIn: Shervin Zare  
+---
 
-📊 Featured Projects  
-- Bank Marketing Optimization – Customer Targeting Analysis with ML  
-- Titanic ML Classifier – Titanic Survival Predictor  
-- Email Spam Detection – NLP and classification model  
+## 📫 Let's Connect
+📧 **Email:** shervin.zare2005@gmail.com  
+💼 **LinkedIn:** Shervin Zare  
 
-⚡Check out my personal website at shervinzare.com  
-Open to collaborations on data science projects and internship opportunities!
+---
+
+## 📊 Featured Projects
+- **Bank Marketing Optimization** – Customer Targeting Analysis with ML  
+- **Titanic ML Classifier** – Titanic Survival Predictor  
+- **Email Spam Detection** – NLP and classification model  
+
+---
+
+## ⚡ Personal Website
+Check out my website at **shervinzare.com**
+
+---
+
+**Open to collaborations on data science projects and internship opportunities!**
