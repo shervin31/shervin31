@@ -1,4 +1,4 @@
-###  Hi, my name Shervin Zare and I'm an Honours Data Science Student @ Wilfrid Laurier University
+###  Hi, I'm Shervin Zare👋
 ---
 
 ### 🛠️ Languages & Tools
