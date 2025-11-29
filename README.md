@@ -22,13 +22,6 @@
 
 ---
 
-## 📊 Featured Projects
-- **Bank Marketing Optimization** – Customer Targeting Analysis with ML  
-- **Titanic ML Classifier** – Titanic Survival Predictor  
-- **Email Spam Detection** – NLP and classification model  
-
----
-
 ## ⚡ Personal Website
 Check out my website at **[shervinzare.com](https://shervinzare.com/)**
 
