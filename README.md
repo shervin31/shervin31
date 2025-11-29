@@ -1,4 +1,3 @@
-{"id":"59310","variant":"standard","title":"GitHub README Section"}
 Hi, I'm Shervin Zare👋  
 Honours Data Science Student @ Wilfrid Laurier University  
 
