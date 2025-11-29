@@ -16,12 +16,6 @@
 
 ---
 
-## 📫 Let's Connect
-📧 **Email:** shervin.zare2005@gmail.com  
-💼 **LinkedIn:** Shervin Zare  
-
----
-
 ## ⚡ Personal Website
 Check out my website at **[shervinzare.com](https://shervinzare.com/)**
 
