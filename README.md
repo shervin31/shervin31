@@ -16,6 +16,9 @@
 
 Check out my website at **[shervinzare.com](https://shervinzare.com/)** ⚡
 
+Check out my YouTube channel where I post educational content for learning:  
+👉 **https://www.youtube.com/@shervin_zare**
+
 ---
 
 **Open to collaborations and internship opportunities!**
