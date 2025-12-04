@@ -1,4 +1,4 @@
-# Hi, I'm Shervin Zare👋
+# Hi, I'm Shervin👋
 ### I'm a Data Science Student @ Wilfrid Laurier University
 
 ## 🛠️ What I Use
