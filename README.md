@@ -14,8 +14,6 @@
 
 ---
 
-Check out my YouTube channel where I post educational content for learning:  
-👉 **https://www.youtube.com/@shervin_zare**
 
 ---
 
