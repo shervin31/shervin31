@@ -14,7 +14,4 @@
 
 ---
 
-
----
-
 **Open to collaborations and internship opportunities!**
