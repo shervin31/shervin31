@@ -1,6 +1,6 @@
 # Hey, I'm Shervin 👋
 
-**Data Science student at Wilfrid Laurier University · Currently interning at Sun Life**
+**Computer Science student at Wilfrid Laurier University**
 
 - 🧠 Into AI, ML, and analytics
 - 🔭 Building projects with Python, pandas, and a healthy number of browser tabs
